@@ -136,4 +136,6 @@ npm run build
 
 ## GitHub
 
-Publish this folder as its own repository so the existing Drishti project remains separate. Do not push the parent workspace repository as the shopping-cart project.
+Public repository: [koteswararaokotte07/shopwise-shopping-cart](https://github.com/koteswararaokotte07/shopwise-shopping-cart).
+
+The shopping-cart app is maintained in its own repository. The containing workspace is a separate Drishti project; publish from this project alone rather than pushing the parent workspace.
